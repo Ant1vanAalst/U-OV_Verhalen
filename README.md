@@ -1,2 +1,4 @@
 # U-OV_Verhalen
-Tweede jaar CMD Blok Web
+HTML en een beetje CSS als eerste opzet voor blok web.
+
+
