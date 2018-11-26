@@ -1,0 +1,33 @@
+html {}
+
+body {
+    margin: 0px;
+
+}
+
+nav {
+    background-color: #675C53;
+    overflow: hidden;     
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.UOVlogo {
+    height: 2em;
+}
+
+.Filteren {
+    height: 1.5em;
+    
+}
+
+.Zoeken {
+    height: 2em;
+}
+
+.Profiel {
+    height: 2em;
+}
